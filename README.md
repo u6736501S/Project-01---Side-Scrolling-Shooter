@@ -49,3 +49,6 @@ Defeat Conditions: The game ends in a Game Over if:
 4. Boss1 is a massive enemy that moves vertically up and down while firing two parallel bombs simultaneously.
 5. Boss2 is a high-HP boss moving in a fluid sine-wave pattern while discharging a 3-way bomb spread from its center.
 
+
+
+https://www.youtube.com/watch?v=5z9gK5D78y4
